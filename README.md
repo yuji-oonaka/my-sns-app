@@ -175,9 +175,12 @@ npm test
 
 ***
 
-## ER図（参考）
+## ER図
 
 本アプリケーションの主要データベース構成
+
+<img width="662" height="672" alt="image" src="https://github.com/user-attachments/assets/22adc52e-eafa-42af-8691-f20fa55e40af" />
+
 
 | テーブル名 | 概要                                 |
 |:-----------|:-------------------------------------|
